@@ -26,7 +26,7 @@
     "category": 'Warehouse Management',
     "description":' Usually Putaway strategy works on categories matched to the product on Shipment. This module does it on Product level.',
     "website": "http://www.bubbles-it.be",
-    "depends" : ["purchase", "stock"],
+    "depends" : ["stock"],
     "demo" : [
              ],
     "data": [
